@@ -1,17 +1,14 @@
 
 
-
 ### Hi there 👋, I am  Farhad Ahmed 
-####  I have developed a deep passion for Web Development and Programming. I bridge the gap between business logic and technical execution. I spend my time building clean, responsive websites and solving complex problems with JavaScript. I am dedicated to mastering the modern web stack, specifically HTML5, CSS3, and JavaScript, while applying the management and organizational skills from my business studies to my coding projects.
-![ I have developed a deep passion for Web Development and Programming. I bridge the gap between business logic and technical execution. I spend my time building clean, responsive websites and solving complex problems with JavaScript. I am dedicated to mastering the modern web stack, specifically HTML5, CSS3, and JavaScript, while applying the management and organizational skills from my business studies to my coding projects.]
-(https://media.licdn.com/dms/image/v2/D4D16AQESxciYJ5NlzQ/profile-displaybackgroundimage-shrink_200_800/B4DZzUyrVtKYAY-/0/1773096596224?e=1777507200&v=beta&t=lfcxKX7OvEr1jyXKklW5iNG6ZelCmCQMM4wqsGMATHM)
+![](https://media.licdn.com/dms/image/v2/D4D16AQESxciYJ5NlzQ/profile-displaybackgroundimage-shrink_200_800/B4DZzUyrVtKYAY-/0/1773096596224?e=1777507200&v=beta&t=lfcxKX7OvEr1jyXKklW5iNG6ZelCmCQMM4wqsGMATHM)
 
-I made this project just for fun, it allows you to create nice and simple GitHub Readme files that you can copy/paste and use in your profile.
+ I have developed a deep passion for Web Development and Programming. I bridge the gap between business logic and technical execution. I spend my time building clean, responsive websites and solving complex problems with JavaScript. I am dedicated to mastering the modern web stack, specifically HTML5, CSS3, and JavaScript, while applying the management and organizational skills from my business studies to my coding projects.
 
 Skills:   REACT / JS / HTML / CSS/Tailwind css
 
 - 🔭 I’m currently working on https://farhad-my-assingnment-6-digtools.netlify.app/ 
-- 🌱 I’m currently learning https://www.programming-hero.com/ 
+- 🌱 I’m currently learning React   
 
 
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/farhadahmdofficial)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/https://www.linkedin.com/in/farhadahmedofficial//)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg' alt='facebook' height='40'>](https://www.facebook.com/https://web.facebook.com/Farhadahmed.Officials/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg' alt='instagram' height='40'>](https://www.instagram.com/https://www.instagram.com/farhad.ahmed_/)  
