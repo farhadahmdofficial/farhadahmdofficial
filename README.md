@@ -1,5 +1,3 @@
-
-
 ### Hi there 👋, I am  Farhad Ahmed 
 ![](https://media.licdn.com/dms/image/v2/D4D16AQESxciYJ5NlzQ/profile-displaybackgroundimage-shrink_200_800/B4DZzUyrVtKYAY-/0/1773096596224?e=1777507200&v=beta&t=lfcxKX7OvEr1jyXKklW5iNG6ZelCmCQMM4wqsGMATHM)
 
@@ -9,7 +7,10 @@ Skills:   REACT / JS / HTML / CSS/Tailwind css
 
 - 🔭 I’m currently working on https://farhad-my-assingnment-6-digtools.netlify.app/ 
 - 🌱 I’m currently learning React   
+- 👯 I’m looking to collaborate on React Project  
+- 🤔 I’m looking for help with Networking  
+- 📫 How to reach me: fa99.official@gmail.com 
 
 
-[<img class='text-white' src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/farhadahmdofficial)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/https://www.linkedin.com/in/farhadahmedofficial//)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg' alt='facebook' height='40'>](https://www.facebook.com/https://web.facebook.com/Farhadahmed.Officials/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg' alt='instagram' height='40'>](https://www.instagram.com/https://www.instagram.com/farhad.ahmed_/)  
+[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/farhadahmdofficial)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/farhadahmedofficial/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg' alt='facebook' height='40'>](https://www.facebook.com/Farhadahmed.Officials)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg' alt='instagram' height='40'>](https://www.instagram.com/farhad.ahmed_/)  
 
