@@ -1,6 +1,9 @@
+
+(https://media.licdn.com/dms/image/v2/D4D16AQESxciYJ5NlzQ/profile-displaybackgroundimage-shrink_200_800/B4DZzUyrVtKYAY-/0/1773096596224?e=1777507200&v=beta&t=lfcxKX7OvEr1jyXKklW5iNG6ZelCmCQMM4wqsGMATHM)
+
 ### Hi there 👋, I am  Farhad Ahmed 
 ####  I have developed a deep passion for Web Development and Programming. I bridge the gap between business logic and technical execution. I spend my time building clean, responsive websites and solving complex problems with JavaScript. I am dedicated to mastering the modern web stack, specifically HTML5, CSS3, and JavaScript, while applying the management and organizational skills from my business studies to my coding projects.
-![ I have developed a deep passion for Web Development and Programming. I bridge the gap between business logic and technical execution. I spend my time building clean, responsive websites and solving complex problems with JavaScript. I am dedicated to mastering the modern web stack, specifically HTML5, CSS3, and JavaScript, while applying the management and organizational skills from my business studies to my coding projects.](https://media.licdn.com/dms/image/v2/D4D16AQESxciYJ5NlzQ/profile-displaybackgroundimage-shrink_200_800/B4DZzUyrVtKYAY-/0/1773096596224?e=1777507200&v=beta&t=lfcxKX7OvEr1jyXKklW5iNG6ZelCmCQMM4wqsGMATHM)
+![ I have developed a deep passion for Web Development and Programming. I bridge the gap between business logic and technical execution. I spend my time building clean, responsive websites and solving complex problems with JavaScript. I am dedicated to mastering the modern web stack, specifically HTML5, CSS3, and JavaScript, while applying the management and organizational skills from my business studies to my coding projects.]
 
 I made this project just for fun, it allows you to create nice and simple GitHub Readme files that you can copy/paste and use in your profile.
 
