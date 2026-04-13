@@ -6,7 +6,7 @@
 Skills:   REACT / JS / HTML / CSS/Tailwind css
 
 - 🔭 I’m currently working on https://farhad-my-assingnment-6-digtools.netlify.app/ 
-- 🌱 I’m currently learning React   
+- 🌱 I’m currently learning React Next.js  
 - 👯 I’m looking to collaborate on React Project  
 - 🤔 I’m looking for help with Networking  
 - 📫 How to reach me: fa99.official@gmail.com 
