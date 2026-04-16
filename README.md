@@ -3,13 +3,13 @@
 
 <p align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=1000&color=36BCF7&width=435&lines=Hi+there,+I'm+Farhad+Ahmed;Frontend+Developer;I+Build+Responsive+Websites" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=1000&color=36BCF7&width=435&lines=Hi+there,+I'm+Farhad+Ahmed;Frontend+Developer;Skills+: +HTML +/+ CSS+/+Tailwind+ CSS+ /+ JS +/+ REACT+ / +Next.+js" alt="Typing SVG" />
   </a>
 </p>
 
  I have developed a deep passion for Web Development and Programming. I bridge the gap between business logic and technical execution. I spend my time building clean, responsive websites and solving complex problems with JavaScript. I am dedicated to mastering the modern web stack, specifically HTML5, CSS3, and JavaScript, while applying the management and organizational skills from my business studies to my coding projects.
 
-Skills:    HTML / CSS/Tailwind CSS / JS / REACT / Next.js
+Skills: HTML / CSS/Tailwind CSS / JS / REACT / Next.js
 
 - 🔭 I’m currently working on https://keen-keper-by-farhad-reactrouter.netlify.app/
 - 🌱 I’m currently learning React Next.js  
