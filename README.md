@@ -41,6 +41,15 @@ Skills:   REACT / JS / HTML / CSS/Tailwind css
 
 
 
+<p align="left">
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=1000&color=36BCF7&width=435&lines=Hi+there,+I'm+Farhad+Ahmed;Frontend+Developer;I+Build+Responsive+Websites" alt="Typing SVG" />
+  </a>
+</p>
+
+
+
+
 
 
 
