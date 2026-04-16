@@ -1,7 +1,7 @@
 ### Hi there 👋, I am  Farhad Ahmed 
 ![](https://media.licdn.com/dms/image/v2/D4D16AQESxciYJ5NlzQ/profile-displaybackgroundimage-shrink_200_800/B4DZzUyrVtKYAY-/0/1773096596224?e=1777507200&v=beta&t=lfcxKX7OvEr1jyXKklW5iNG6ZelCmCQMM4wqsGMATHM)
 
-<p align="left">
+<p align="center">
   <a href="https://git.io/typing-svg">
     <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=1000&color=36BCF7&width=435&lines=Hi+there,+I'm+Farhad+Ahmed;Frontend+Developer;I+Build+Responsive+Websites" alt="Typing SVG" />
   </a>
