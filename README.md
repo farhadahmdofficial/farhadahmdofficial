@@ -69,6 +69,25 @@ Skills:   REACT / JS / HTML / CSS/Tailwind css
 
 
 
+<a href="https://github.com/farhadahmdofficial">
+  <img src="https://img.shields.io/badge/-000000?style=flat&logo=github&logoColor=white" height="40">
+</a> 
+<a href="https://www.linkedin.com/in/farhadahmedofficial/">
+  <img src="https://img.shields.io/badge/-0A66C2?style=flat&logo=linkedin&logoColor=white" height="40">
+</a> 
+<a href="https://www.facebook.com/Farhadahmed.Officials">
+  <img src="https://img.shields.io/badge/-1877F2?style=flat&logo=facebook&logoColor=white" height="40">
+</a> 
+<a href="https://www.instagram.com/farhad.ahmed_/">
+  <img src="https://img.shields.io/badge/-E4405F?style=flat&logo=instagram&logoColor=white" height="40">
+</a>
+
+
+
+
+
+
+
 
 
 
