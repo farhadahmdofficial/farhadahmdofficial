@@ -59,3 +59,29 @@ Skills:   REACT / JS / HTML / CSS/Tailwind css
   </a>
 </p>
 
+
+
+
+
+
+
+
+
+
+<p align="center">
+  <a href="https://github.com/farhadahmdofficial">
+    <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/Github-Dark.svg" width="50" height="50" alt="github" />
+  </a>
+  &nbsp;&nbsp;
+  <a href="YOUR_FB_LINK">
+    <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/Facebook.svg" width="50" height="50" alt="facebook" />
+  </a>
+  &nbsp;&nbsp;
+  <a href="YOUR_LINKEDIN_LINK">
+    <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/LinkedIn.svg" width="50" height="50" alt="linkedin" />
+  </a>
+  &nbsp;&nbsp;
+  <a href="YOUR_INSTA_LINK">
+    <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/Instagram.svg" width="50" height="50" alt="instagram" />
+  </a>
+</p>
