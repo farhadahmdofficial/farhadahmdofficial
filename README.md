@@ -42,6 +42,13 @@ Skills:   REACT / JS / HTML / CSS/Tailwind css
 
 
 
+[<img src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/github.svg" alt="github" height="40" width="40">](https://github.com/farhadahmdofficial) &nbsp;
+[<img src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/linkedin.svg" alt="linkedin" height="40" width="40">](https://www.linkedin.com/in/farhadahmedofficial/) &nbsp;
+[<img src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/facebook.svg" alt="facebook" height="40" width="40">](https://www.facebook.com/Farhadahmed.Officials) &nbsp;
+[<img src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/instagram.svg" alt="instagram" height="40" width="40">](https://www.instagram.com/farhad.ahmed_/)
+
+
+
 
 
 
