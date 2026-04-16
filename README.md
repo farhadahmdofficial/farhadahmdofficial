@@ -41,12 +41,35 @@ Skills:   REACT / JS / HTML / CSS/Tailwind css
 
 
 
-<p align="left gap-5 ">
+<p align="left">
 <a href="https://github.com/farhadahmdofficial"><img src="https://skillicons.dev/icons?i=github" height="60" /></a> &nbsp;
 <a href="https://www.linkedin.com/in/farhadahmedofficial/"><img src="https://skillicons.dev/icons?i=linkedin" height="60" /></a> &nbsp;
- <a href="https://www.facebook.com/Farhadahmed.Officials"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="facebook" height="50" /></a>
+ <a href="https://www.facebook.com/Farhadahmed.Officials"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="facebook" height="48" /></a>
  <a href="https://www.instagram.com/farhad.ahmed_/"><img src="https://skillicons.dev/icons?i=instagram" height="60" /></a>
 
+</p>
+
+
+
+<p align="left">
+  <a href="https://github.com/farhadahmdofficial">
+    <img src="https://skillicons.dev/icons?i=github" height="60" />
+  </a> 
+  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+
+  <a href="https://www.linkedin.com/in/farhadahmedofficial/">
+    <img src="https://skillicons.dev/icons?i=linkedin" height="60" />
+  </a> 
+  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+
+  <a href="https://www.facebook.com/Farhadahmed.Officials">
+    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="facebook" height="60" width="60" />
+  </a> 
+  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+
+  <a href="https://www.instagram.com/farhad.ahmed_/">
+    <img src="https://skillicons.dev/icons?i=instagram" height="60" />
+  </a>
 </p>
 
 
