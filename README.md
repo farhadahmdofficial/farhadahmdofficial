@@ -11,30 +11,19 @@ Skills:   REACT / JS / HTML / CSS/Tailwind css
 - 🤔 I’m looking for help with Networking  
 - 📫 How to reach me: fa99.official@gmail.com 
 
-
+<!-- <div>
+ 
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/farhadahmdofficial)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/farhadahmedofficial/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg' alt='facebook' height='40'>](https://www.facebook.com/Farhadahmed.Officials)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg' alt='instagram' height='40'>](https://www.instagram.com/farhad.ahmed_/)  
+</div> -->
 
 
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-<p align="left">
+<!-- <p align="left">
 <a href="https://github.com/farhadahmdofficial"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" /></a>
 <a href="https://www.linkedin.com/in/farhadahmedofficial/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 <a href="https://www.facebook.com/Farhadahmed.Officials"><img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" /></a>
 <a href="https://www.instagram.com/farhad.ahmed_/"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" /></a>
-</p>
+</p> -->
 
 
 
@@ -51,26 +40,7 @@ Skills:   REACT / JS / HTML / CSS/Tailwind css
 
 
 
-<p align="left">
-  <a href="https://github.com/farhadahmdofficial">
-    <img src="https://skillicons.dev/icons?i=github" height="60" />
-  </a> 
-  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
-  <a href="https://www.linkedin.com/in/farhadahmedofficial/">
-    <img src="https://skillicons.dev/icons?i=linkedin" height="60" />
-  </a> 
-  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-
-  <a href="https://www.facebook.com/Farhadahmed.Officials">
-    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="facebook" height="60" width="60" />
-  </a> 
-  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-
-  <a href="https://www.instagram.com/farhad.ahmed_/">
-    <img src="https://skillicons.dev/icons?i=instagram" height="60" />
-  </a>
-</p>
 
 
 
