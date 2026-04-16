@@ -68,19 +68,10 @@ Skills:   REACT / JS / HTML / CSS/Tailwind css
 
 
 
-
-<a href="https://github.com/farhadahmdofficial">
-  <img src="https://img.shields.io/badge/-000000?style=flat&logo=github&logoColor=white" height="40">
-</a> 
-<a href="https://www.linkedin.com/in/farhadahmedofficial/">
-  <img src="https://img.shields.io/badge/-0A66C2?style=flat&logo=linkedin&logoColor=white" height="40">
-</a> 
-<a href="https://www.facebook.com/Farhadahmed.Officials">
-  <img src="https://img.shields.io/badge/-1877F2?style=flat&logo=facebook&logoColor=white" height="40">
-</a> 
-<a href="https://www.instagram.com/farhad.ahmed_/">
-  <img src="https://img.shields.io/badge/-E4405F?style=flat&logo=instagram&logoColor=white" height="40">
-</a>
+[<img src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/github.svg" alt="github" height="40">](https://github.com/farhadahmdofficial) 
+[<img src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/linkedin.svg" alt="linkedin" height="40">](https://www.linkedin.com/in/farhadahmedofficial/) 
+[<img src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/facebook.svg" alt="facebook" height="40">](https://www.facebook.com/Farhadahmed.Officials) 
+[<img src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/instagram.svg" alt="instagram" height="40">](https://www.instagram.com/farhad.ahmed_/)
 
 
 
