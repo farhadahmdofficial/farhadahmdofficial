@@ -21,31 +21,6 @@ Skills:   REACT / JS / HTML / CSS/Tailwind css
 
 
 
-<p align="left">
-  <a href="https://github.com/farhadahmdofficial">
-    <img src="https://img.shields.io/badge/-000000?style=flat&logo=github&logoColor=white" height="45">
-  </a> &nbsp;
-  
-  <a href="https://www.linkedin.com/in/farhadahmedofficial/">
-    <img src="https://img.shields.io/badge/-0A66C2?style=flat&logo=linkedin&logoColor=white" height="45">
-  </a> &nbsp;
-  
-  <a href="https://www.facebook.com/Farhadahmed.Officials">
-    <img src="https://img.shields.io/badge/-1877F2?style=flat&logo=facebook&logoColor=white" height="45">
-  </a> &nbsp;
-  
-  <a href="https://www.instagram.com/farhad.ahmed_/">
-    <img src="https://img.shields.io/badge/-E4405F?style=flat&logo=instagram&logoColor=white" height="45">
-  </a>
-</p>
-
-
-
-
-[<img src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/github.svg" alt="github" height="40" width="40">](https://github.com/farhadahmdofficial) &nbsp;
-[<img src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/linkedin.svg" alt="linkedin" height="40" width="40">](https://www.linkedin.com/in/farhadahmedofficial/) &nbsp;
-[<img src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/facebook.svg" alt="facebook" height="40" width="40">](https://www.facebook.com/Farhadahmed.Officials) &nbsp;
-[<img src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/instagram.svg" alt="instagram" height="40" width="40">](https://www.instagram.com/farhad.ahmed_/)
 
 
 
@@ -64,10 +39,7 @@ Skills:   REACT / JS / HTML / CSS/Tailwind css
 
 
 
-[<img src="https://simpleicons.org/icons/github.svg" alt="github" height="40" width="40">](https://github.com/farhadahmdofficial) &nbsp;
-[<img src="https://simpleicons.org/icons/linkedin.svg" alt="linkedin" height="40" width="40">](https://www.linkedin.com/in/farhadahmedofficial/) &nbsp;
-[<img src="https://simpleicons.org/icons/facebook.svg" alt="facebook" height="40" width="40">](https://www.facebook.com/Farhadahmed.Officials) &nbsp;
-[<img src="https://simpleicons.org/icons/instagram.svg" alt="instagram" height="40" width="40">](https://www.instagram.com/farhad.ahmed_/)
+
 
 
 
