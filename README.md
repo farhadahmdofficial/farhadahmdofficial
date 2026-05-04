@@ -9,7 +9,40 @@
 
  I have developed a deep passion for Web Development and Programming. I bridge the gap between business logic and technical execution. I spend my time building clean, responsive websites and solving complex problems with JavaScript. I am dedicated to mastering the modern web stack, specifically HTML5, CSS3, and JavaScript, while applying the management and organizational skills from my business studies to my coding projects.
 
-Skills: HTML / CSS/Tailwind CSS / JS / REACT / Next.js
+
+## 🛠️ My Technical Skills
+
+### 🌐 Frontend & Core Development
+*   **HTML5 & CSS3**: Building semantic and accessible structures.
+*   **JavaScript (ES6+)**: Writing clean and efficient logic for dynamic web apps.
+*   **React.js**: Building interactive and reusable user interfaces.
+*   **Next.js (App Router)**: Developing high-performance, SEO-friendly applications.
+*   **Tailwind CSS**: Crafting modern and responsive layouts with utility-first CSS.
+
+### 🔐 Authentication & Backend
+*   **Better-Auth**: Implementing secure and robust authentication flows.
+*   **Google Cloud Console**: Handling Google OAuth and cloud configurations.
+*   **MongoDB**: Managing non-relational database schemas and data persistence.
+
+### 🎨 UI & Design Libraries
+*   **HeroUI (formerly NextUI)**: Implementing sleek and modern pre-built components.
+*   **Daisy UI**: Using Tailwind-based components for rapid UI development.
+*   **Gravity UI**: Leveraging structured design systems for better UX.
+*   **Iconify & React Icons**: Integrating scalable vector icons.
+
+### ⚡ Animations & Interactive Effects
+*   **Framer Motion**: Creating smooth, physics-based UI transitions.
+*   **React Spring**: Handling complex spring-physics animations.
+*   **React Marquee**: Implementing seamless scrolling effects.
+*   **Animate.css**: Quickly adding CSS-based entry/exit animations.
+
+### ⏳ Loaders & Notifications
+*   **React Spinners & React Loader Spinner**: Enhancing UX with visual loading feedback.
+*   **React Toastify & React-Hot-Toast**: Providing instant real-time feedback for user actions.
+
+---
+
+
 
 - 🔭 I’m currently working on https://qurbanihat-livestock-booking-by-far-pi.vercel.app/
 - 🔭 I’m currently working on https://keen-keper-by-farhad-reactrouter.netlify.app/
