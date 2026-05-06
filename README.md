@@ -1,5 +1,10 @@
 ### Hi there 👋, I am  Farhad Ahmed 
 ![](https://media.licdn.com/dms/image/v2/D4D16AQESxciYJ5NlzQ/profile-displaybackgroundimage-shrink_200_800/B4DZzUyrVtKYAY-/0/1773096596224?e=1777507200&v=beta&t=lfcxKX7OvEr1jyXKklW5iNG6ZelCmCQMM4wqsGMATHM)
+<p align="center">
+  <img src="https://github.com/farhadahmdofficial/farhadahmdofficial/blob/main/last%202tk.png?raw=true" width="100%" alt="Farhad Ahmed Banner" />
+</p>
+
+
 
 <p align="center">
   <a href="https://git.io/typing-svg">
